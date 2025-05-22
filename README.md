@@ -36,7 +36,7 @@ The following HTML code is a basic setup for a chatbot interface. Replace https:
     <script src="https://cdn.statically.io/gh/weberi/chatroom/master/dist/Chatroom.js"></script>
     <script type="text/javascript">
     var chatroom = new window.Chatroom({
-        host: "https://https://organic-lamp-7vwjg6w7j9x9cwrq7-5005.app.github.dev/",   
+        host: "https://https://organic-lamp-7vwjg6w7j9x9cwrq7-5005.app.github.dev",   
         title: "Chat with a bot",
         container: document.querySelector(".chat-container"),
         welcomeMessage: "Nice to meet you.",
